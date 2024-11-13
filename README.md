@@ -25,7 +25,7 @@ This repository is a part of the Natural Language Processing course, designed to
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/MedicalQuestionAnsweringSystem.git
+   git clone https://github.com/ShayanSalehi81/MedicalQuestionAnsweringSystem.git
    cd MedicalQuestionAnsweringSystem
    ```
 
